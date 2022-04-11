@@ -1,0 +1,2 @@
+# Wine-Quality-prediction
+It predicts the quality of wine using relevant features. The 'red wine' dataset contained 1599 rows, 11 features, and 1 label quality. Correlation analysis is done using a heatmap, proceeding to which data is preprocessed to give 4 dependent features. Linear regression is employed to give a Mean Absolute Error (MAE) of 0.48, which is reduced to 0.38 after optimizing the model. The final accuracy score achieved is 64%. 
